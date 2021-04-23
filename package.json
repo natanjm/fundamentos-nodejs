@@ -31,5 +31,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "uuid": "^8.3.0"
-  }
+  },
+  "repository": "https://github.com/natanjm/fundamentos-nodejs.git",
+  "author": "Natan Junges Muller <natan.junges@hotmail.com>"
 }
